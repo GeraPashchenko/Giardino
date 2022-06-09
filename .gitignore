@@ -1,0 +1,4 @@
+# compiled output
+/giardino-backend/dist
+/giardino-backend/node_modules
+/giardino-backend/pgadmin-data
